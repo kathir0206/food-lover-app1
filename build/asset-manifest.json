@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-lover-app1/static/css/main.3d71ccf2.css",
+    "main.js": "/food-lover-app1/static/js/main.20a6c6db.js",
+    "index.html": "/food-lover-app1/index.html",
+    "main.3d71ccf2.css.map": "/food-lover-app1/static/css/main.3d71ccf2.css.map",
+    "main.20a6c6db.js.map": "/food-lover-app1/static/js/main.20a6c6db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d71ccf2.css",
+    "static/js/main.20a6c6db.js"
+  ]
+}
